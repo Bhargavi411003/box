@@ -1,0 +1,26 @@
+h1{
+    margin: auto;
+    border: 5px solid red;
+}
+.i{
+    margin: auto;
+    border: 5px solid  red;
+
+}
+ul{
+    margin: auto;
+    border: 5px solid red;
+}
+body{
+    margin: auto;
+    width: 700px;
+    height: 400;
+    border-style: solid;
+    border: 5px solid red;
+}
+body{
+    display:block;
+    margin: 8p
+}
+input{background:linear-gradient(white,blue,white);padding: 10px;}
+a{border:3px solid red;padding: 5px;}
